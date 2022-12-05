@@ -1,7 +1,7 @@
 # reaction-time-test-hack
 a hack where you click automatic when it turns green
 
-site for the hack: https://humanbenchmark.com/tests/reactiontime
+site for the hack: https://humanbenchmark.com/tests/reactiontime (can also work for other sites)
 
 !! you need to install pyautogui (https://pyautogui.readthedocs.io/en/latest/) and pillow (https://pillow.readthedocs.io/en/stable/installation.html) !!
 
